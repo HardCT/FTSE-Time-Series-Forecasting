@@ -11,6 +11,8 @@ K226.xls: Extraction of crude petroleum and natural gas.
 
 JQ2J.xls: The manufacturing and business sector of Great Britain, total turnover and orders.
 
+FTSE.xls: UK Footsie 100 share index.
+
 K54D.py: Check seasonality, and apply seasonal additive decomposition; Apply exponential smoothing with additive or multiplicative trends, which is also called "Holt-Winter".
 
 EAFV.py, K226.py, JQ2J.py: Repeat the same operation as K54D.py on 3 other time series.
